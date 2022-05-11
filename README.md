@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tarekelkanaria
+- 👋 Hi, I’m @tarekelkanaria front-end developer
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning front-end web developer skills
+- 🌱 I’m currently learning to master programming
 - 💞️ I’m looking to collaborate on work on web and programs
 - 📫 How to reach me ... https://www.linkedin.com/in/tarek-elkanaria/
 
