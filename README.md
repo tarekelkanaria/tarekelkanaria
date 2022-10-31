@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarek Elkanaria</h1>
+<h1 align="center">Hi 👋, I'm Tarek Mohammed Abdelraouf</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekelkanaria&label=Profile%20views&color=b7ddf5&style=plastic" alt="tarekelkanaria" /> </p>
@@ -35,7 +35,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekelkanaria&show_icons=true&theme=highcontrast&title_color=e16b6b&text_color=7091f5&bg_color=eec75d&locale=en" alt="tarekelkanaria" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekelkanaria&theme=highcontrast" alt="tarekelkanaria" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekelkanaria&theme=dark" alt="tarekelkanaria" /></p>
+
 
 
 <!---
