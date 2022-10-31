@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarek Mohammed Abdelraouf</h1>
+<h1 align="center">Hi 👋, I'm Tarek Elkanaria</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekelkanaria&label=Profile%20views&color=b7ddf5&style=plastic" alt="tarekelkanaria" /> </p>
