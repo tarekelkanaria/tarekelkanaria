@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elkanariatarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elkanariatarek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tarek m. shaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek m. shaer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tarek-elkanaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek elkanaria" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19365700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19365700" height="30" width="40" /></a>
 </p>
 
@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekelkanaria&show_icons=true&theme=highcontrast&title_color=e16b6b&text_color=7091f5&bg_color=eec75d&locale=en" alt="tarekelkanaria" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekelkanaria&theme=dark" alt="tarekelkanaria" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekelkanaria&theme=dark" alt="tarekelkanaria" /></p> -->
 
 
 
