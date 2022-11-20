@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tarekelkanaria@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/19PLch7CgXAQYlDC1LXi5OtwoHLGIMqS0/view?usp=share_link]
+- 📄 Know about my experiences [My Resume in pdf Link](https://drive.google.com/file/d/1D4Z7JIHqnjC2jldfFka7PW9zw6wNvE8I/view?usp=sharing)
 
 - ⚡ Fun fact **I advice people to do right things which i don't do.**
 
