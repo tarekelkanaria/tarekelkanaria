@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/tarekelkanaria/home](https://sites.google.com/view/tarekelkanaria/home)
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **tarekelkanaria@gmail.com**
