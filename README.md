@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekelkanaria&label=Profile%20views&color=0e75b6&style=flat" alt="tarekelkanaria" /> </p>
 
-- 🔭 I’m currently working on **Freelance career**
+- 🔭 I’m currently working as **Front-End Developer**
 
 - 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate**
 
