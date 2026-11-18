@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Elkanaria</h1>
-<h3 align="center">A passionate Front End Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekelkanaria&label=Profile%20views&color=0e75b6&style=flat" alt="tarekelkanaria" /> </p>
 
-- 🔭 I’m currently working as **Front-End Developer**
+- 🔭 I’m currently working as **Software Developer**
 
-- 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate**
+- 🌱 I’m currently learning **Software architecture**
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯 I’m looking to collaborate on **Software Development projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://elkanaria-react-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://elkanaria-portfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **tarekelkanaria@gmail.com**
 
-- 📄 Know about my experiences [My resume in pdf link](https://drive.google.com/file/d/1mTel32Hwy0RvqdKGA6b2J82xBjxdfWsx/view?usp=sharing)
+- 📄 Know about my experiences [My resume in pdf link](https://drive.google.com/file/d/1gzDgtLzUsSM6PcKssprcZIOCZTVwMOVq/view?usp=sharing)
 
 - ⚡ Fun fact **I advice people to do right things which I don't do.**
 
